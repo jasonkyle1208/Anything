@@ -1,4 +1,3 @@
-#A very universal gadget
 def csu(rbx, rbp, r12, r13, r14, r15, last):
     # pop rbx,rbp,r12,r13,r14,r15
     # rbx should be 0,
