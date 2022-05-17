@@ -1,1 +1,3 @@
 #io = process(['./ld-2.31.so', './examination'], env={'LD_PRELOAD':'./libc-2.31.so'})
+
+#need .debug,libc,ld,elf
